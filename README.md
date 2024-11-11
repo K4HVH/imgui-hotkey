@@ -1,4 +1,4 @@
-# ImGui Hotkey System
+# imgui-hotkey
 A flexible and user-friendly hotkey system for ImGui applications that supports multiple activation modes and both keyboard and mouse inputs. This system provides a clean, thread-safe way to handle keyboard and mouse inputs with various activation modes.
 
 ## Features
